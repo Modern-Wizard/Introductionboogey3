@@ -1,4 +1,4 @@
 # Introduction
 <div>
-<img src="https://github.com/Modern-Wizard/Introduction/blob/main/ss1.png" />
+<img src="https://github.com/Modern-Wizard/Introductionboogey3/blob/main/ss1.png" />
 </div>
